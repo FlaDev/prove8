@@ -1,0 +1,5 @@
+
+# Gets all data from server
+GET http://localhost:8080/professional
+
+
